@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    padding: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: dimgrey; 
+    color: #ffffff;
+}
+
+h1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: grey;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 60px;
+}
+
+img{
+    width: 100%;
+    height: 250px;
+}
+.mainpic{
+    width: 600px;
+    height: 300px;
+    margin-top: 100px;
+    
+}
+
+.aboutme{
+    margin-left: 200px;
+    
+    
+    
+}
+.work{
+    margin-left: 200px;
+    line-height: 300px;
+}
+aside{
+    font-size: 30px;
+}
+
+  
+.content {
+    width: 50%;
+    
+    margin-left: 35%;
+    padding-top: 3%;
+}
+.floatright{
+    float: right;
+    margin-right: 100px;
+    
+}
+  
+
+.container{
+    position: relative;
+}
+
+.textblock{
+    position: absolute;
+    bottom:50px;
+    right: 50px;
+    background-color: grey;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 40px;
+}
+
+
+ nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
