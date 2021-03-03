@@ -40,7 +40,27 @@ img{
     width: 100%;
     height: 250px;
 }
-.mainpic,
+
+.mainpic{
+    display: inline-block;
+    width: 650px;
+    height: 350px;
+    margin-top: 70px;
+    border: 8px solid rgb(5, 0, 31);
+}
+
+.mainpic:hover{
+    opacity: 50%;
+}
+
+.mainpic2:hover{
+    opacity: 50%;
+}
+
+.mainpic3:hover{
+    opacity: 50%;
+}
+
 .mainpic2,
 .mainpic3 {
     display: inline-block;
@@ -49,19 +69,22 @@ img{
     margin-top: 70px;
     border: 8px solid rgb(5, 0, 31);
     
+    
 }
 
 
 .aboutme{
-    margin-left: 10%;
-    
-    
-    
-    
+    margin-left: 4%;
 }
 .work{
-    margin-left: 10%;
-    line-height: 300px;
+    margin-left: 4%;
+    line-height: 300px; 
+}
+.bottom{
+    margin-left: 4%;
+    position: absolute;
+    bottom: -210%;
+    
 }
 aside{
     font-size: 35px;
@@ -83,12 +106,27 @@ aside{
 }
   
 
+
 .container{
     position: relative;
-    
-    
 }
-
+.container2,
+.container3,
+.container4 {
+    position: relative;
+}
+.textblock2,
+.textblock3,
+.textblock4{
+    position: absolute;
+    bottom:50px;
+    right: 50px;
+    background-color: grey;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 40px;
+}
 .textblock{
     position: absolute;
     bottom:50px;
@@ -101,7 +139,7 @@ aside{
 }
 
 
- nav {
+ #top{
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -117,10 +155,26 @@ aside{
     display: inline-block;
     margin-left: 25px;
 }
-a {
+.toplinks {
     color: #ffffff;
+    font-size: 20px;
     text-decoration: none;
+
 }
-
-
+.btm a {
+margin-top: 90px;
+margin-bottom: 60px;
+font-size: 25px;
+float: right;
+margin-right: 20px;
+color: rgb(5, 0, 31);
+}
+.btm nav ul{
+    list-style-type: none;
+}
+.btm nav ul li{
+    display: inline-block;
+    margin-left: 25px;
+    
+}
 
