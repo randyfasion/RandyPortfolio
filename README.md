@@ -21,7 +21,7 @@ The webb applications displayed so far are:
 
  **Scratch game**
 
-    -In this excercise I made an interactive game called "Get the cheesy puff"
+    -In this excercise I made an interactive game called "Get the cheesy puff."
 
     -Directions for the game includes:
 
@@ -46,17 +46,19 @@ The webb applications displayed so far are:
 
         -The header of my page includes my title, picture, and links to the different sections of my page. 
         
-        -Followed by my "About me" bio
+        -Followed by my "About me" bio.
 
-        -Then I have my three picture links to my deployed applications. 
+        -Then I have my three labeled picture links to my deployed applications. 
         
         -Lastly followed by my contact information, with a link to my GitHub account. 
 
 
 - The following link gives a quick look into the application 
-
+![portfolio](portfoliolook.png)
 
 
 Link to Deployed wedsite:
+https://randyfasion.github.io/RandyPortfolio/
 
 Link to GitHub Repository:
+https://github.com/randyfasion/RandyPortfolio
