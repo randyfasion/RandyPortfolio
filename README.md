@@ -5,9 +5,10 @@
 In this Portfolio I am showcasing my skill sets to potential employers looking to fill a full-time position. I have highlighted my strongest work thus far, this Portfolio is a deployed Webb application with a live link to the direct Website. 
 
 The webb applications displayed so far are:
-    -Horiseon Homework 1 application
-    -Scratch game application
-    -"About Me" application
+
+-Horiseon Homework 1 application
+-Scratch game application
+-"About Me" application
 
 **Horiseon Application**
 
@@ -17,7 +18,7 @@ The webb applications displayed so far are:
 
     -Then made the corresponding changes to the css file.
 
- -For example: for the header portion of the page. The <div> tag was changed to <header>, etc. 
+    -For example: for the header portion of the page. The <div> tag was changed to <header>, etc. 
 
  **Scratch game**
 
