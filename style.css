@@ -4,21 +4,19 @@
     margin: 0;
    
 }
+/*background color for after header*/
 body{
     background-color: rgb(214, 247, 247);
 }
+/*header details added*/
 .header {
     padding: 70px;
     font-family: cursive;
     background-color: rgb(5, 0, 31); 
     color: #ffffff;
-    
 }
 
-#top{
-    
-}
-
+/*profile picture*/
 .headerpic{
     display: inline-block;
     height: 150px;
@@ -28,6 +26,8 @@ body{
    
    
 }
+
+/*header name styles and alignment*/
 h1{
     position: absolute;
     top: 50px;
@@ -54,6 +54,7 @@ img{
     opacity: 80%;
 }
 
+/*hover details for pictures*/
 .mainpic:hover{
     opacity: 100%;
 }
@@ -66,6 +67,7 @@ img{
     opacity: 100%;
 }
 
+/*picture alignments*/
 .mainpic2,
 .mainpic3 {
     display: inline-block;
@@ -78,7 +80,7 @@ img{
     
 }
 
-
+/*alignments for left headers*/
 .aboutme{
     margin-left: 4%;
     display: flex;
@@ -136,6 +138,8 @@ aside{
 .container4 {
     position: relative;
 }
+
+/*text blocks for picture links*/
 .textblock2,
 .textblock3,
 .textblock4{
@@ -160,6 +164,7 @@ aside{
 }
 
 
+/*alignment and style for top links*/
  #top{
     padding-top: 15px;
     margin-right: 20px;
@@ -185,7 +190,7 @@ aside{
 
 
 
-
+/*alignment and style for bottom contact me links*/
 #contactme{
     padding-top: 15px;
     margin-right: 20px;
