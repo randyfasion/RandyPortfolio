@@ -16,7 +16,7 @@ body{
 }
 
 #top{
-    display: flex;
+    
 }
 
 .headerpic{
@@ -82,25 +82,31 @@ img{
 .aboutme{
     margin-left: 4%;
     display: flex;
+    
 }
 
+#aboutme{
+    margin-top: 70px;
+}
 
 .work{
     margin-left: 4%;
-    line-height: 300px; 
+    line-height: 140px; 
     display: flex;
+    
 }
 .bottom{
-    margin-left: 4%;
+    margin-left: 0%;
     position: absolute;
-    bottom: -210%;
+    bottom: -222%;
     display: flex;
+    
     
 }
 aside{
     font-size: 35px;
     font-family: cursive;
-   
+    margin-bottom: 50px;
     
 }
 
@@ -162,11 +168,11 @@ aside{
     font-size: 20px;
 }
 
-.header nav ul {
+#top ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+#top ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -176,20 +182,32 @@ aside{
     text-decoration: none;
 
 }
-.btm a {
-margin-top: 90px;
-margin-bottom: 60px;
-font-size: 25px;
-float: right;
-margin-right: 20px;
-color: rgb(5, 0, 31);
-}
-.btm nav ul{
-    list-style-type: none;
-}
-.btm nav ul li{
-    display: inline-block;
-    margin-left: 25px;
-    
+
+
+
+
+#contactme{
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: cursive;
+    font-size: 20px;
+
+   
 }
 
+#contactme ul {
+    list-style-type: none;
+}
+
+#contactme ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.btm {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+
+}

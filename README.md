@@ -7,7 +7,9 @@ In this Portfolio I am showcasing my skill sets to potential employers looking t
 The webb applications displayed so far are:
 
 -Horiseon Homework 1 application
+
 -Scratch game application
+
 -"About Me" application
 
 **Horiseon Application**
