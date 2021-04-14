@@ -191,7 +191,7 @@ aside{
 
 
 /*alignment and style for bottom contact me links*/
-#contactme{
+.contactme{
     padding-top: 15px;
     margin-right: 20px;
     float: right;
