@@ -67,9 +67,15 @@ img{
     opacity: 100%;
 }
 
+.mainpic4:hover{
+    opacity: 100%;
+}
+
 /*picture alignments*/
 .mainpic2,
-.mainpic3 {
+.mainpic3,
+.mainpic4,
+.mainpic5 {
     display: inline-block;
     width: 600px;
     height: 300px;
@@ -135,14 +141,18 @@ aside{
 }
 .container2,
 .container3,
-.container4 {
+.container4,
+.container5,
+.container6 {
     position: relative;
 }
 
 /*text blocks for picture links*/
 .textblock2,
 .textblock3,
-.textblock4{
+.textblock4,
+.textblock5,
+.textblock6 {
     position: absolute;
     bottom:50px;
     right: 50px;
