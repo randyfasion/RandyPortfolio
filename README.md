@@ -58,3 +58,9 @@ https://randyfasion.github.io/RandyPortfolio/
 
 Link to GitHub Repository:
 https://github.com/randyfasion/RandyPortfolio
+
+Resume:
+![portfolio](portfoliolook.png)
+
+LinkdIn:
+https://www.linkedin.com/in/randy-faison-47ab58183/
