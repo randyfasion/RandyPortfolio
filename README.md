@@ -8,9 +8,9 @@ The webb applications displayed so far are:
 
 -Horiseon Homework 1 application
 
--Scratch game application
+-Work Day Scheduler application
 
--"About Me" application
+-Password Generator application
 
 **Horiseon Application**
 
@@ -22,39 +22,32 @@ The webb applications displayed so far are:
 
     -For example: for the header portion of the page. The <div> tag was changed to <header>, etc. 
 
- **Scratch game**
+ **Work Day Scheduler**
 
-    -In this excercise I made an interactive game called "Get the cheesy puff."
+    -In this application I created a calendar that allows a user to save events for each hour of the day by modifying starter code.
 
-    -Directions for the game includes:
+    - I used the Momentjs library to work with the date and time. 
 
-        Start the game by clicking the green flag. Use the arrow keys to move the cat around the screen to catch the orange puff. After the score reaches 10, YOU WIN! Click the flag again to reload game. Red to stop.
+**Password Generator**
 
-**About Me**
+    -In this application I modified starter code to enable users to generate random passwords. Users are prompted to select criteria that they want their password to have.  
 
-    -In this excerceise I edited an "About Me" file to include some details about myself, then succesfully pushed all changed to my GitHub repository. 
-
-        -This site includes sections like: 
-            Introduction
-            Where I'm from?
-            What are my favorite hobbies?
-            What's my dream job?
-            Where do you live?
-            Why do I want to be a Webb Developer? 
+    -It features HTML, CSS, and Javascript. 
 
 ## Getting Started
 
 **Portfolio**
-    -Underneath the hood of my Portfolio I used a variety of tags, and a css file to create the formatting necessary for this site. 
+    -Underneath the hood of my Portfolio I used HTML, CSS, along with a variety of tags, and a css file to create the formatting necessary for this site. 
 
         -The header of my page includes my title, picture, and links to the different sections of my page. 
         
         -Followed by my "About me" bio.
 
-        -Then I have my three labeled picture links to my deployed applications. 
+        -Then I have three labeled picture links to my deployed applications, and links to the GitHub Repositories. 
         
         -Lastly followed by my contact information, with a link to my GitHub account. 
 
+Contact Info: Randyfaison@gmail.com
 
 - The following link gives a quick look into the application 
 ![portfolio](portfoliolook.png)
