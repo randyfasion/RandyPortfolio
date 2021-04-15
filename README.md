@@ -12,15 +12,31 @@ The webb applications displayed so far are:
 
 -Password Generator application
 
-**Horiseon Application**
+**Project 1 - Musical**
 
-    -In this excercise I improved the html code without changing what the website does. For this particular assignment a "marketing agency" hired me to refactor an existing site to make it more accessible. 
+    -Our project has fulfilled the following:
+ * Uses a CSS framework other than Bootstrap
+ * Deployed to GitHub pages
+ * Interactive 
+ * Uses two server side API'S
+ * Does not use alerts, confirms, or prompts
+ * Use of client-side storage to store persistent data
+ * Responsive (mobile-friendly)
+ * Has a polished UI.
+ * Has a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.)
+ * Has a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
-    -I changed all the <div> tags in the html to another tag that will keep the current website formating. 
-
-    -Then made the corresponding changes to the css file.
-
-    -For example: for the header portion of the page. The <div> tag was changed to <header>, etc. 
+ ## Acceptance Criteria
+```
+GIVEN I am a user looking to attend or learn about concerts ,Artist, near me, or any city in th USA
+* WHEN I open the page,
+* THEN I am presented with a search bar input by city. 
+* WHEN I click the search button 
+* THEN I am taken to another page that will display the results of my search,
+* WHEN I choose the Artist 
+* THEN I will be able to see all the live events and watch their YouTube videos .
+ 
+```
 
  **Work Day Scheduler**
 
