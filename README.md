@@ -6,7 +6,7 @@ In this Portfolio I am showcasing my skill sets to potential employers looking t
 
 The webb applications displayed so far are:
 
--Horiseon Homework 1 application
+-Project 1 Musical - application
 
 -Work Day Scheduler application
 
@@ -14,7 +14,8 @@ The webb applications displayed so far are:
 
 **Project 1 - Musical**
 
-    -Our project has fulfilled the following:
+Our project has fulfilled the following:
+
  * Uses a CSS framework other than Bootstrap
  * Deployed to GitHub pages
  * Interactive 
@@ -55,7 +56,7 @@ GIVEN I am a user looking to attend or learn about concerts ,Artist, near me, or
 **Portfolio**
     -Underneath the hood of my Portfolio I used HTML, CSS, along with a variety of tags, and a css file to create the formatting necessary for this site. 
 
-        -The header of my page includes my title, picture, and links to the different sections of my page. 
+        -The header of my page includes my title, picture, and links to the different sections of my page, link to my resume, and link to my LinkedIn. 
         
         -Followed by my "About me" bio.
 
