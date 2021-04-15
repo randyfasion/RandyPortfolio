@@ -60,7 +60,7 @@ Link to GitHub Repository:
 https://github.com/randyfasion/RandyPortfolio
 
 Resume:
-![portfolio](portfoliolook.png)
+![portfolio](./Resume_RandyFaison.pdf)
 
 LinkdIn:
 https://www.linkedin.com/in/randy-faison-47ab58183/
