@@ -234,3 +234,7 @@ aside{
 .btm{
     padding-bottom: 50%;
 }
+  .link{
+    position: relative;
+    z-index: auto;
+}
