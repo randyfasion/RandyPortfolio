@@ -43,7 +43,7 @@ GIVEN I am a user looking to attend or learn about concerts ,Artist, near me, or
 
     -In this application I created a calendar that allows a user to save events for each hour of the day by modifying starter code.
 
-    - I used the Momentjs library to work with the date and time. 
+    - I used the Momentjs library to work with the date and time. JavaScript, and CSS. 
 
 **Password Generator**
 
