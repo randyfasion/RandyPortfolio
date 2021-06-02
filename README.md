@@ -85,7 +85,7 @@ https://github.com/randyfasion/RandyPortfolio
 
 Resume:
 
-![resume](./Resume_RandyFaison.pdf)
+![resume](RandyFaison-Resume.pdf)
 
 LinkdIn:
 https://www.linkedin.com/in/randy-faison-47ab58183/
