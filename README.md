@@ -6,17 +6,17 @@ In this Portfolio I am showcasing my skill sets to potential employers looking t
 
 The webb applications displayed so far are:
 
--Team Profile Generator Command Line Application
+- Team Profile Generator Command Line Application
 
--Note Taker application
+- Note Taker application
 
--Password Generator application
+- Password Generator application
 
-**Team Profile Generator**
+## Team Profile Generator
 
 This application takes in information about a team at a Software Engineering company. It then generates an HTML page to display all the information that was entered about the team. Also, all four of the class modules (employee, intern, manager, and engineer) are tested using Jest.
 
-## User Story
+**User Story**
 
 ```md
 AS A manager
@@ -26,15 +26,15 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 
 
- **Note Taker**
+ ## Note Taker
 
-   - This application was created to write, save, and delete notes. 
+ This application was created to write, save, and delete notes. 
    
-   - This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-    - the entire application is deployed to Heroku.
+The entire application is deployed to Heroku.
 
-    ## User Story
+ **User Story**
 
 ```
 AS A small business owner
@@ -42,13 +42,14 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-**Password Generator**
+## Password Generator
 
-    -In this application allows users to generate random passwords. Users are prompted to select criteria that they want their password to have.  
+In this application allows users to generate random passwords. Users are prompted to select criteria that they want their password to have.  
 
-    -It features HTML, CSS, and Javascript. 
+It features HTML, CSS, and Javascript. 
 
-    ## User Story
+
+**User Story**
 
 ```
 AS AN employee with access to sensitive data
@@ -57,7 +58,8 @@ SO THAT I can create a strong password that provides greater security
 ```
 
 
-**Portfolio**
+## Portfolio
+
     -Underneath the hood of my Portfolio I used HTML, CSS, along with a variety of tags, and a css file to create the formatting necessary for this site. 
 
         -The header of my page includes my title, picture, and links to the different sections of my page, link to my resume, and link to my LinkedIn. 
@@ -70,7 +72,8 @@ SO THAT I can create a strong password that provides greater security
 
 Contact Info: Randyfaison@gmail.com
 
-- The following link gives a quick look into the application 
+The following picture gives a quick look into the application 
+
 ![portfolio](portfoliolook.png)
 
 
@@ -81,6 +84,7 @@ Link to GitHub Repository:
 https://github.com/randyfasion/RandyPortfolio
 
 Resume:
+
 ![resume](./Resume_RandyFaison.pdf)
 
 LinkdIn:
