@@ -6,52 +6,56 @@ In this Portfolio I am showcasing my skill sets to potential employers looking t
 
 The webb applications displayed so far are:
 
--Project 1 Musical - application
+-Team Profile Generator Command Line Application
 
--Work Day Scheduler application
+-Note Taker application
 
 -Password Generator application
 
-**Project 1 - Musical**
+**Team Profile Generator**
 
-Our project has fulfilled the following:
+This application takes in information about a team at a Software Engineering company. It then generates an HTML page to display all the information that was entered about the team. Also, all four of the class modules (employee, intern, manager, and engineer) are tested using Jest.
 
- * Uses a CSS framework other than Bootstrap
- * Deployed to GitHub pages
- * Interactive 
- * Uses two server side API'S
- * Does not use alerts, confirms, or prompts
- * Use of client-side storage to store persistent data
- * Responsive (mobile-friendly)
- * Has a polished UI.
- * Has a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.)
- * Has a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
+## User Story
 
- ## Acceptance Criteria
-```
-GIVEN I am a user looking to attend or learn about concerts ,Artist, near me, or any city in th USA
-* WHEN I open the page,
-* THEN I am presented with a search bar input by city. 
-* WHEN I click the search button 
-* THEN I am taken to another page that will display the results of my search,
-* WHEN I choose the Artist 
-* THEN I will be able to see all the live events and watch their YouTube videos .
- 
+```md
+AS A manager
+I WANT to generate a webpage that displays my team's basic info
+SO THAT I have quick access to their emails and GitHub profiles
 ```
 
- **Work Day Scheduler**
 
-    -In this application I created a calendar that allows a user to save events for each hour of the day by modifying starter code.
 
-    - I used the Momentjs library to work with the date and time. JavaScript, and CSS. 
+ **Note Taker**
+
+   - This application was created to write, save, and delete notes. 
+   
+   - This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+
+    - the entire application is deployed to Heroku.
+
+    ## User Story
+
+```
+AS A small business owner
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
+```
 
 **Password Generator**
 
-    -In this application I modified starter code to enable users to generate random passwords. Users are prompted to select criteria that they want their password to have.  
+    -In this application allows users to generate random passwords. Users are prompted to select criteria that they want their password to have.  
 
     -It features HTML, CSS, and Javascript. 
 
-## Getting Started
+    ## User Story
+
+```
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
+```
+
 
 **Portfolio**
     -Underneath the hood of my Portfolio I used HTML, CSS, along with a variety of tags, and a css file to create the formatting necessary for this site. 
@@ -77,7 +81,7 @@ Link to GitHub Repository:
 https://github.com/randyfasion/RandyPortfolio
 
 Resume:
-![portfolio](./Resume_RandyFaison.pdf)
+![resume](./Resume_RandyFaison.pdf)
 
 LinkdIn:
 https://www.linkedin.com/in/randy-faison-47ab58183/
