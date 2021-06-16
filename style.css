@@ -12,7 +12,7 @@ body{
 .header {
     padding: 70px;
     font-family: cursive;
-    background-color: rgb(235, 193, 102); 
+    background-color: rgb(202, 150, 39); 
     color: #ffffff;
 }
 
@@ -44,7 +44,7 @@ img{
     height: 333px;
 }
 #banner{
-    opacity: 75%;
+    /* opacity: 90%; */
 }
 
 .mainpic{
