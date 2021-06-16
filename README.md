@@ -74,7 +74,7 @@ Contact Info: Randyfaison@gmail.com
 
 The following picture gives a quick look into the application 
 
-![portfolio](portfoliolook.png)
+![portfolio](screenshot1.png)
 
 
 Link to Deployed wedsite:
