@@ -77,11 +77,9 @@ The following picture gives a quick look into the application
 ![portfolio](portfoliolook.png)
 
 
-Link to Deployed wedsite:
-https://randyfasion.github.io/RandyPortfolio/
 
-Link to GitHub Repository:
-https://github.com/randyfasion/RandyPortfolio
+![DeployedWebsite](https://randyfasion.github.io/RandyPortfolio/)
+
 
 Resume:
 
