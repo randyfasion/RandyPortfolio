@@ -43,6 +43,9 @@ img{
     width: 100%;
     height: 333px;
 }
+#banner{
+    opacity: 75%;
+}
 
 .mainpic{
     display: inline-block;
@@ -193,7 +196,7 @@ aside{
 }
 .toplinks {
     color: #ffffff;
-    font-size: 20px;
+    font-size: 23px;
     text-decoration: none;
 
 }
