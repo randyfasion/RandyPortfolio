@@ -89,3 +89,11 @@ Resume:
 
 LinkdIn:
 https://www.linkedin.com/in/randy-faison-47ab58183/
+
+## Contact Information
+Email: RandyFaison@gmail.com
+
+
+- - -
+## License
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
