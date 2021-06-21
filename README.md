@@ -46,9 +46,7 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-Technologies Used:
 
-- 
 
 ## Password Generator
 
@@ -65,9 +63,7 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
 
-Technologies Used:
 
-- 
 
 
 ## Portfolio
@@ -95,7 +91,7 @@ https://randyfasion.github.io/RandyPortfolio/
 
 Resume:
 
-[resume](RandyFaison-Resume.pdf)
+[resume](RandyFaison-Resume-2.pdf)
 
 LinkdIn:
 https://www.linkedin.com/in/randy-faison-47ab58183/
