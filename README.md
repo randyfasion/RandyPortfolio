@@ -12,9 +12,6 @@ The webb applications displayed so far are:
 - Password Generator application
 
 
-Technologies Used:
-
-- 
 
 ## Team Profile Generator
 
