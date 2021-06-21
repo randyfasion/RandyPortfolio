@@ -1,8 +1,7 @@
-# Updated Portfolio 
+# Portfolio 
 
-## Task
+Full Stack Web Developer leveraging an Information Technology background to build a more intuitive user experience on the web. Recently earned a certificate in Full Stack Development from the University of Richmond, with newly developed skills in JavaScript, CSS, HTML, Node.Js, MySQL and responsive web design. Known as an innovative problem solver passionate about developing apps, with a focus on mobile-first design and development. With each project, my aim is to best engage my audience for an impactful user experience. 
 
-In this Portfolio I am showcasing my skill sets to potential employers looking to fill a full-time position. I have highlighted my strongest work thus far, this Portfolio is a deployed Webb application with a live link to the direct Website. 
 
 The webb applications displayed so far are:
 
@@ -11,6 +10,11 @@ The webb applications displayed so far are:
 - Note Taker application
 
 - Password Generator application
+
+
+Technologies Used:
+
+- 
 
 ## Team Profile Generator
 
@@ -42,6 +46,10 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
+Technologies Used:
+
+- 
+
 ## Password Generator
 
 In this application allows users to generate random passwords. Users are prompted to select criteria that they want their password to have.  
@@ -56,6 +64,10 @@ AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
+
+Technologies Used:
+
+- 
 
 
 ## Portfolio
